@@ -5,4 +5,5 @@
 </template>
 <script>
 console.log("testing console 1");
+console.log("testing console 2");
 </script>
